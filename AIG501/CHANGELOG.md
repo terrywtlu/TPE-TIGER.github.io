@@ -1,5 +1,16 @@
 # API version release notes
-## V1.5 (2023-12)
+## V1.4.0 (2024-10)
+The functionality and changes below were added in AIG-501 V1.4.0
+
+### New Features
+- Support Modbus Slaver
+- Support Backup Logging for Modbus Slaver
+
+### Improvements
+- Update Azure IoT C SDK to LTS_08_2024 with thingspro-agent v2.2.6 and Azure IoT Device
+- Recommend the new version 1.4.40 of edgeAgent and edgeHub 
+
+## V1.3.0 (2023-12)
 The functionality and changes below were added in AIG-501 V1.3.0
 
 ### New
